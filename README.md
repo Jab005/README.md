@@ -5,5 +5,4 @@ I'm Jab, just going here for some reason...<br>
 Don't know much about programming, but I'm interested at.<br>
 I'm stupid, will use github to post stupid things like repo & projects and other necessary "smart" activities.
 </p>
----
-(don't ask why i use html)
+<br><p align="center">⟨‹=====★=====›⟩</p><br>(don't ask why i use html)
