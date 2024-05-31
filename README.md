@@ -4,6 +4,6 @@
 I'm Jab, just going here for some random reasons<br>
 I'm stupid, will use github to post stupid things like repo & projects and other necessary "smart" activities like helping someone (perhaps).
 </p><br>
-Only these? Yeah..<br>
+Just that? Yeah..<br>
 Nothing is special from me, and i wish your day is fulfilled with happiness and luckiness!<br><br>
 <p align="center" /><img src="contents/absurd.gif" width="200px" height="auto">
