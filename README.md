@@ -3,7 +3,7 @@
 <p align="center">Welcome to my github account!<br>
 I'm Jab, just going here for some random reasons<br>
 I'm stupid, will use github to post stupid things like repo & projects and other necessary "smart" activities like helping someone (perhaps).
-</p><br><br>
+</p><br>
 Only these? Yeah..<br>
-Nothing is special from me, and i wish your day is fulfilled with happiness and luckiness!<br>
-<p align="center" /><img src="contents/absurd.gif" width="125px" height="auto">
+Nothing is special from me, and i wish your day is fulfilled with happiness and luckiness!<br><br>
+<p align="center" /><img src="contents/absurd.gif" width="200px" height="auto">
